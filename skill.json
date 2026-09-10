@@ -1,0 +1,17 @@
+{
+  "name": "genpark-cooley-tukey-radix2-fft-engine-skill",
+  "version": "1.0.0",
+  "description": "Cooley-Tukey Radix-2 Fast Fourier Transform (FFT) and Inverse FFT (IFFT) engine providing O(N log N) frequency domain decomposition.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "fft",
+    "cooley-tukey",
+    "signal-processing",
+    "spectral-analysis",
+    "discrete-fourier-transform"
+  ],
+  "dependencies": []
+}
